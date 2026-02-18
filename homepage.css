@@ -1,6 +1,4 @@
-/* =========================
-   GLOBAL FIX
-========================= */
+
 
 *{
     box-sizing: border-box;
@@ -14,9 +12,7 @@ body {
 }
 
 
-/* =========================
-   TOP NAVBAR
-========================= */
+
 
 .top-nav {
 
@@ -30,7 +26,6 @@ body {
 }
 
 
-/* LOGO */
 
 .logo img{
 
@@ -40,7 +35,6 @@ body {
 }
 
 
-/* SEARCH */
 
 .search-box {
 
@@ -74,7 +68,7 @@ body {
 }
 
 
-/* RIGHT MENU */
+
 
 .nav-icons a {
 
@@ -121,9 +115,9 @@ body {
 
 .banner {
 
-    width: 100%;
+    width: 90%;
 
-    height: 60vh;
+    height: 50vh;
 
     background-image:
     linear-gradient(rgba(179, 124, 88, 0.4), rgba(0,0,0,0.4)),
